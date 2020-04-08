@@ -4,7 +4,7 @@
 
 **Curso:** 2015/2016
 
-**Autor:** [Daniel Melero Chaves] (https://github.com/DanielMChaves)
+**Autor:** [Daniel Melero Chaves](https://github.com/DanielMChaves)
 
 **Lenguaje:** Bash
 
